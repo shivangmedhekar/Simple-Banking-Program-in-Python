@@ -1,1 +1,1 @@
-# Simple-Banking-Program-in-Python
+# Simple Banking Program in Python
