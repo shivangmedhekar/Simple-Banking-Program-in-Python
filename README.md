@@ -3,6 +3,20 @@
 ## Description
 To be added 
 
+## Requirements
+- Python 3.x
+You can download python [here](https://www.python.org/downloads/).
+
+## Usage:
+
+You should start cloning this repository:
+
+    $ git clone https://github.com/shivangmedhekar/Simple-Banking-Program-in-Python.git
+
+After getting the code, you must run **banking.py** script with **python** like this:
+    
+    $ python banking.py
+    
 
 ## Program by
 |  **Shivang Medhekar** |
