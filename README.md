@@ -1,7 +1,11 @@
 # Simple Banking Program in Python
 
 ## Description
-To be added 
+The following repository contains a simple command line banking app which made using Python Data Structures and Object Oriented Programming Methodlogy.
+The program can create a new user for bank or login for existing user.
+The user's are given a unique 5 digit account number on creating a new account.
+The user's can deposit, withdraw and check balance in their account.
+
 
 ## Requirements
 - Python 3.x
