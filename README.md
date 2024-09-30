@@ -15,8 +15,8 @@ A simple console-based savings account management system that allows users to cr
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/shivangmedhekar/Simple-Banking-Program-in-Python.git
+    cd Simple-Banking-Program-in-Python
     ```
 
 2. Ensure Python is installed (Python 3.x is recommended). You can check the version with:
