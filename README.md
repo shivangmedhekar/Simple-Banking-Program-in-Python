@@ -28,7 +28,7 @@ A simple console-based savings account management system that allows users to cr
 3. Run the script:
 
     ```bash
-    python savings_account.py
+    python banking.py
     ```
 
 ## How to Use
